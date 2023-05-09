@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shark-container
-        image: prempalsingh/devops:latest
+        image: shashibind1983/devops:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
