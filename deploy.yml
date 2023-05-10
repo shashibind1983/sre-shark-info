@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: shark-container
-        image: shashibind1983/sre-shark-info:latest
+        image: shashibind1983/shark-info:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
